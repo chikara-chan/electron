@@ -11,7 +11,7 @@ This document describes the process for releasing a new version of Electron.
 Run `npm run prepare-release -- --notesOnly` to view auto generated release
 notes.  The notes generated should help you determine if this is a major, minor,
 patch, or beta version change. Read the
-[Version Change Rules](docs/tutorial/electron-versioning.md#version-change-rules) for more information.
+[Version Change Rules](../tutorial/electron-versioning.md#version-change-rules) for more information.
 
 ## Run the prepare-release script
 The prepare release script will do the following:
