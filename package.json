@@ -63,9 +63,5 @@
   "author": "Electron Community",
   "keywords": [
     "electron"
-  ],
-  "dependencies": {
-    "dugite": "^1.45.0",
-    "minimist": "^1.2.0"
-  }
+  ]
 }
